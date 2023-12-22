@@ -6,12 +6,12 @@
   <li><a href="https://neurips.cc/"><autocolor>Conference on Neural Information Processing Systems (NeurIPS) </autocolor></a></li>
   <li><a href="https://icml.cc/"><autocolor>International Conference on Machine Learning (ICML) </autocolor></a></li>
   <li><a href="https://aistats.org/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) </autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li><a href="https://www.learningtheory.org/colt2023/"><autocolor>Annual Conference on Learning Theory (COLT) </autocolor></a></li>
+  <li><a href="https://www.ijcai.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) </autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><a href="https://jmlr.csail.mit.edu/"><autocolor>The Journal of Machine Learning Research (JMLR)</autocolor></a></li>
 </ul>
