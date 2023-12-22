@@ -12,10 +12,9 @@ Best policy identification, Large deviation, Multi-agent reinforcement learning,
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Dec. 2023]** We present our work in NeurIPS 2023.
+- **[Nov. 2023]** I present our work in Workshop on Bandits and Statistical Tests
+
 
 {% include_relative _includes/publications.md %}
 
