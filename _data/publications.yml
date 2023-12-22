@@ -19,7 +19,7 @@ main:
     image: 
     notes:
 
-  - title: "Closing the Computational-Statistical Gap in Best Arm Identification for Combinatorial Semi-bandits"
+  - title: "Closing the Computational-Statistical Gap in BAI for Combinatorial Semi-bandits"
     authors: Ruo-Chun Tzeng, <strong>Po-An Wang</strong>, Alexandre Proutiere, Chi-Jen Lu
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
