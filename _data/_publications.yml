@@ -1,0 +1,80 @@
+main: 
+  - title: "On uniformly optimal algorithms for best arm identification in two-armed bandits with fixed budget"
+    authors: <strong>Po-An Wang</strong>, Kaito Ariu, Alexandre Proutiere
+    conference_short: Preprint
+    conference:
+    pdf: https://arxiv.org/pdf/2308.12000.pdf
+    code: 
+    bibtex: 
+    image: 
+    notes:
+
+  - title: "Best Arm Identification with Fixed Budget A Large Deviation Perspective"
+    authors: <strong>Po-An Wang</strong>, Ruo-Chun Tzeng, Alexandre Proutiere
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://openreview.net/pdf?id=gYetLsNO8x
+    code: https://github.com/rctzeng/NeurIPS2023-CR
+    bibtex: 
+    image: 
+    notes:
+
+  - title: "Closing the Computational-Statistical Gap in Best Arm Identification for Combinatorial Semi-bandits"
+    authors: Ruo-Chun Tzeng, <strong>Po-An Wang</strong>, Alexandre Proutiere, Chi-Jen Lu
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://openreview.net/pdf?id=8jg8z3ASiw
+    code: https://github.com/rctzeng/NeurIPS2023-PerturbedFWS
+    bibtex: 
+    image: 
+    notes:
+
+  - title: "Improved analysis of randomized SVD for top-eigenvector approximation"
+    authors:Ruo-Chun Tzeng, <strong>Po-An Wang</strong>, Florian Adriaens, Aristides Gionis, Chi-Jen Lu 
+    conference_short: AISTATS
+    conference: International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2022.
+    pdf: https://proceedings.mlr.press/v151/tzeng22a/tzeng22a.pdf
+    code: https://github.com/rctzeng/AISTATS22-Improved-analysis-of-RSVD-for-top-eigenvector-approx
+    bibtex: 
+    image: 
+    notes:
+
+  - title: "Fast Pure Exploration via Frank-Wolfe"
+    authors: <strong>Po-An Wang</strong>, Ruo-Chun Tzeng, Alexandre Proutiere
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2021/file/2dffbc474aa176b6dc957938c15d0c8b-Paper.pdf
+    code: https://github.com/rctzeng/NeurIPS2021-FWS
+    bibtex: 
+    image: 
+    notes:
+
+  - title: "Optimal Algorithms for Multiplayer Multi-Armed Bandits"
+    authors: <strong>Po-An Wang</strong>, Alexandre Proutiere, Kaito Ariu, Yassir Jedra, Alessio Russo
+    conference_short: AISTATS
+    conference: International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2021.
+    pdf: https://proceedings.mlr.press/v108/wang20m/wang20m.pdf
+    code: https://github.com/rssalessio/dpe
+    bibtex: 
+    image: 
+    notes:
+
+  - title: "Lifelong Optimization with low Regret"
+    authors: Yi-Shan Wu, <strong>Po-An Wang</strong>, Chi-Jen Lu
+    conference_short: AISTATS
+    conference: International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2019.
+    pdf: https://proceedings.mlr.press/v89/wu19a/wu19a.pdf
+    code:
+    bibtex: 
+    image: 
+    notes:
+    
+  - title: "Tensor Decomposition via Simultaneous Power Iteration"
+    authors: <strong>Po-An Wang</strong>, Chi-Jen Lu
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2017.
+    pdf: https://proceedings.mlr.press/v70/wang17i/wang17i.pdf
+    code:
+    bibtex: 
+    image: 
+    notes:
