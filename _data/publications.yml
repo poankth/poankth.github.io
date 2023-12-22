@@ -7,7 +7,7 @@ main:
     code: 
     bibtex: 
     image: 
-    notes: Spotlight
+    notes: 
 
   - title: "Best Arm Identification with Fixed Budget A Large Deviation Perspective"
     authors: <strong>Po-An Wang</strong>, Ruo-Chun Tzeng, Alexandre Proutiere
@@ -17,7 +17,7 @@ main:
     code: https://github.com/rctzeng/NeurIPS2023-CR
     bibtex: 
     image: 
-    notes:
+    notes: Spotlight
 
   - title: "Closing the Computational-Statistical Gap in BAI for Combinatorial Semi-bandits"
     authors: Ruo-Chun Tzeng, <strong>Po-An Wang</strong>, Alexandre Proutiere, Chi-Jen Lu
