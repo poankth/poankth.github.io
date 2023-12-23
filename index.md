@@ -12,8 +12,10 @@ Best policy identification, Large deviation, Multi-agent reinforcement learning,
 
 ## News
 
-- **[Dec. 2023]** We present our work in NeurIPS 2023.
-- **[Nov. 2023]** I present our work in Workshop on Bandits and Statistical Tests
+- **[Dec. 2023]** We present our NeurIPS works in New Orleans, United States.
+- **[Nov. 2023]** I present in Workshop on Bandits and Statistical Tests in Potdam, Germany.
+- **[Sep. 2023]** I give an invited presentation in Academia Sinica, Taiwan.
+- **[Jun. 2023]** I work as an intern in CyberAgent, Japan.
 
 
 {% include_relative _includes/publications.md %}
