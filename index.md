@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a fourth-year PhD student at KTH Royal Institute of Technology, working under the guidance of Prof. Alexandre Proutiere. In June 2023, I embarked on an enriching internship journey with CyberAgent in Japan. Prior to my academic pursuit at KTH, I gained valuable research experience as an assistant in Chi-Jen Lu's lab at Academia Sinica.
 
 ## Research Interests
 
