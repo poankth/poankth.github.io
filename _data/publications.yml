@@ -1,8 +1,8 @@
 main: 
-  - title: "On uniformly optimal algorithms for best arm identification in two-armed bandits with fixed budget"
+  - title: "On Universally Optimal Algorithms for A/B Testing"
     authors: <strong>Po-An Wang</strong>, Kaito Ariu, Alexandre Proutiere
     conference_short: Preprint
-    conference:
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2308.12000.pdf
     code: 
     bibtex: 
