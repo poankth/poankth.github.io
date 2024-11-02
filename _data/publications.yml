@@ -1,9 +1,18 @@
 main: 
+  - title: "Fundamental Limits in Stochastic Bandits"
+    authors: <strong>Po-An Wang</strong>, Kaito Ariu
+    conference_short: KTH Thesis
+    conference: DiVA, 2024.
+    pdf: https://www.diva-portal.org/smash/record.jsf?dswid=4554&pid=diva2%3A1898589
+    code: 
+    bibtex: 
+    image: 
+    notes: 
   - title: "On Universally Optimal Algorithms for A/B Testing"
     authors: <strong>Po-An Wang</strong>, Kaito Ariu, Alexandre Proutiere
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2308.12000.pdf
+    pdf: https://openreview.net/pdf?id=ft5jK9uPgC
     code: 
     bibtex: 
     image: 
