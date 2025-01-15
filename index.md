@@ -3,12 +3,11 @@ layout: homepage
 ---
 
 ## About Me
-
-I am currently a PhD student at KTH Royal Institute of Technology, working under the guidance of Prof. Alexandre Proutiere. In June 2023, I embarked on an enriching internship journey with CyberAgent in Japan. Prior to my academic pursuit at KTH, I gained valuable research experience as an assistant in Chi-Jen Lu's lab at Academia Sinica.
+I am an assistant professor affiliated with the Institute of Statistics and Data Science at National Tsing-Hua University. Before joining this institution, I was a PhD student at KTH Royal Institute of Technology, where I worked under the guidance of Prof. Alexandre Proutiere. In June 2023, I embarked on an enriching internship journey with CyberAgent in Japan. Prior to my academic pursuits at KTH, I gained valuable research experience as an assistant in Chi-Jen Lu's lab at Academia Sinica.
 
 ## Research Interests
 
-Reinforcement Learning, Online optimization
+Reinforcement Learning, Online Optimization
 
 ## News
 - **[Oct. 2024]** I give a talk at INFORMS Annual Meeting in Seattle, United States.
